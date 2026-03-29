@@ -1,4 +1,4 @@
-Hi, I'm Timothy Samuel Shekwogaza
+Hi, I'm **Timothy Samuel Shekwogaza**
 
 <!-- Typing Animation -->
 
@@ -8,7 +8,7 @@ Hi, I'm Timothy Samuel Shekwogaza
 
 ---
 
-About Me
+**About Me**
 
 💻 Backend-focused developer working with the **LAMP stack**
 🔧 I build dynamic websites and RESTful APIs
@@ -16,7 +16,7 @@ About Me
 
 ---
 
-Tech Stack
+**Tech Stack**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -29,7 +29,7 @@ Tech Stack
 
 ---
 
-GitHub Stats
+**GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsshekwogaza&show_icons=true&theme=tokyonight" />
@@ -41,11 +41,11 @@ GitHub Stats
 
 ---
 
-Featured Project
+**Featured Project**
 
 A REST API built using PHP and MySQL with full CRUD functionality.
 
-**Features:**
+*Features:* 
 
 * GET, POST, PUT, DELETE
 * JSON API responses
@@ -71,7 +71,7 @@ I’m looking to collaborate on projects.
 
 ---
 
-Fun Fact: i’m transitioning from building websites to building full backend systems...
+**Fun Fact:** i’m transitioning from building websites to building full backend systems...
 
 <!---
 tsshekwogaza/tsshekwogaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
