@@ -1,4 +1,4 @@
-👋 Hi, I'm Timothy Samuel Shekwogaza
+Hi, I'm Timothy Samuel Shekwogaza
 
 <!-- Typing Animation -->
 
