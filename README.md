@@ -43,30 +43,35 @@ GitHub Stats
 
 Featured Project
 
-PHP REST API: A REST API built using PHP and MySQL with full CRUD functionality.
+A REST API built using PHP and MySQL with full CRUD functionality.
 
 **Features:**
 
-* GET, POST, PUT, DELETE * JSON API responses * Custom routing system * MySQL database integration
+* GET, POST, PUT, DELETE
+* JSON API responses
+* Custom routing system
+* MySQL database integration
 
-👉 https://github.com/tsshekwogaza/php-rest-api.git
+https://github.com/tsshekwogaza/php-rest-api.git
 
 ---
 
 Current Goals
 
-* Learn authentication (JWT, sessions) * Build scalable backend systems * Learn Laravel framework
+* Learn authentication (JWT, sessions)
+* Build scalable backend systems
+* Learn Laravel framework
 
 ---
 
-Connect With Me: I’m looking to collaborate on projects...
+I’m looking to collaborate on projects.
 
 * Email: [timothysamuelshekwogaza@gmail.com](mailto:timothysamuelshekwoggaza@gmail.com)
 * GitHub: https://github.com/tsshekwogaza
 
 ---
 
-Fun Fact: I’m transitioning from building websites → to building full backend systems.
+Fun Fact: i’m transitioning from building websites to building full backend systems...
 
 <!---
 tsshekwogaza/tsshekwogaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
