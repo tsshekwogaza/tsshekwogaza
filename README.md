@@ -46,10 +46,13 @@ A REST API built using PHP and MySQL with full CRUD functionality.
 
 *Features:* 
 
-* GET, POST, PUT, DELETE
-* JSON API responses
-* Custom routing system
+* RESTful API (GET, POST, PUT, DELETE)
 * MySQL database integration
+* JSON responses
+* Custom routing system
+* Token-based Authentication (Register & Login)
+* Protected routes
+* Input validation
 
 https://github.com/tsshekwogaza/php-rest-api.git
 
