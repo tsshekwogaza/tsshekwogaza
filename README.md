@@ -60,9 +60,8 @@ https://github.com/tsshekwogaza/php-rest-api.git
 
 Current Goals
 
-* Learn authentication (JWT, sessions)
-* Build scalable backend systems
 * Learn Laravel framework
+* Build scalable backend systems
 
 ---
 
@@ -73,7 +72,7 @@ I’m looking to collaborate on projects.
 
 ---
 
-**Fun Fact:** i’m transitioning from building websites to building full backend systems...
+**Fun Fact:** Building full backend systems...
 
 <!---
 tsshekwogaza/tsshekwogaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
