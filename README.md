@@ -82,14 +82,6 @@ tsshekwogaza/tsshekwogaza is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-# Your Name
-
-Backend Developer (PHP / Laravel)
-
 ---
 
 ## Stack
@@ -103,54 +95,14 @@ Backend Developer (PHP / Laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 
 ---
-
-## Profile
-
-Backend-focused developer with experience building web applications and APIs using Laravel and PHP.
-Comfortable working across the stack when required, with attention to performance, structure, and maintainability.
-
----
-
-## Experience
-
-**Project Name**
-
-* Designed and implemented backend logic and database structure
-* Built RESTful APIs and handled authentication
-* Integrated frontend using Blade / TailwindCSS
-
-**Project Name**
-
-* Developed server-side features using PHP
-* Optimized queries and improved application performance
-
----
-
-## Projects
-
-**Project Name**
-Short, clear description of the system and its purpose.
-Tech: Laravel, MySQL, TailwindCSS
-Links: Repository | Demo
-
-**Project Name**
-Short description.
-Tech: PHP, JavaScript
-Links: Repository | Demo
-
 ---
 
 ## GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_title=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=tsshekwogaza\&show_icons=true\&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsshekwogaza\&layout=compact)
 
 ---
-
-## Contact
-
-Email: [your@email.com](mailto:your@email.com)
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
