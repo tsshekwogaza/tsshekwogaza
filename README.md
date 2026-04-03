@@ -81,3 +81,62 @@ I’m looking to collaborate on projects.
 tsshekwogaza/tsshekwogaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+> whoami
+Your Name
+
+> role
+Backend Developer (PHP / Laravel)
+
+> location
+Nigeria
+
+> stack
+Laravel
+PHP
+JavaScript
+TailwindCSS
+HTML5
+Vite
+Node.js
+
+> about
+Backend-focused developer building APIs and scalable web applications.
+Interested in clean architecture, performance, and maintainable systems.
+
+> experience
+
+Project: Project Name
+- Built RESTful APIs with Laravel
+- Designed database schema and optimized queries
+- Implemented authentication and authorization
+
+Project: Project Name
+- Developed backend services in PHP
+- Integrated frontend with Blade and TailwindCSS
+
+> projects
+
+[Project Name]
+Description: Short, clear explanation of the system
+Tech: Laravel, MySQL, TailwindCSS
+Links: Repository | Demo
+
+[Project Name]
+Description: Short description
+Tech: PHP, JavaScript
+Links: Repository | Demo
+
+> github-stats
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME
+
+> contact
+Email: your@email.com
+LinkedIn: https://linkedin.com/in/yourprofile
+
+> status
+Open to backend roles and collaborations
+```
