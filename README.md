@@ -10,7 +10,7 @@ Hi, I'm **Timothy Samuel Shekwogaza**
 
 **About Me**
 
-Backend-focused developer working with the **LAMP stack** | I build dynamic websites and RESTful APIs | Currently learning Laravel framework, with advanced backend concepts and authentication.
+Full-Stack developer working with the **LAMP stack** | I build dynamic websites and RESTful APIs | Currently learning Laravel framework, with advanced backend concepts and authentication.
 
 ---
 
