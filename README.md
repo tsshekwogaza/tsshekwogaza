@@ -45,7 +45,7 @@ Full-Stack developer building with **LEMP/LAMP stack** | I build dynamic solutio
 
 **Featured Project**
 
-A REST API built using PHP and MySQL with full CRUD functionality.
+A clean, production-ready blogging platform built to master the core 20% of Laravel that drives 80% of real-world applications. This project serves as a practical implementation of fundamental Laravel concepts, focusing heavily on secure authentication, fine-grained authorization, and asset management.
 
 *Features:* 
 
