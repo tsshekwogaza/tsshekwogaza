@@ -10,7 +10,7 @@ Hi, I'm **Timothy Samuel Shekwogaza**
 
 **About Me**
 
-Full-Stack developer working with the **LAMP stack** | I build dynamic websites and RESTful APIs | Currently learning Laravel framework, with advanced backend concepts and authentication.
+Full-Stack developer building with **LEMP/LAMP stack** | I build dynamic solutions and RESTful APIs | Currently learning Laravel framework, with advanced backend concepts and authentication.
 
 ---
 
@@ -49,29 +49,27 @@ A REST API built using PHP and MySQL with full CRUD functionality.
 
 *Features:* 
 
-* RESTful API (GET, POST, PUT, DELETE)
-* MySQL database integration
-* JSON responses
-* Custom routing system
-* Token-based Authentication (Register & Login)
-* Protected routes
-* Input validation
+* User Authentication: Secure user registration, login, and session management.
+* Complete CRUD: Create, read, update, and delete blog articles with rich text.
+* Media Uploads: Cover image uploads for articles and custom avatar uploads for user profiles.
+* Advanced Authorization: Gate and Policy-driven access control ensuring users only modify their own content.
+* Modern UI: Fully responsive, clean interface built entirely with Tailwind CSS.
 
-https://github.com/tsshekwogaza/php-rest-api.git
+https://devblog.sevalla.app
 
 ---
 
 Current Goals
 
 * Learn Laravel framework
-* Build scalable backend systems
+* Build Full-stack scalable systems
 
 ---
 
 I’m looking to collaborate on projects.
 
 * Email: [timothysamuelshekwogaza@gmail.com](mailto:timothysamuelshekwoggaza@gmail.com)
-* GitHub: https://github.com/tsshekwogaza
+* Discord: https://discord.com/tsshekwogaza
 
 ---
 
